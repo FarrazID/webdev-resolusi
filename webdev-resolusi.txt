@@ -1,5 +1,6 @@
 WEBDEV RESOLUSI AGUSTUS 2020
-- konsisten baca tutorial 2 jam/hari
-- membuat sample project disertai dokumentasinya
-- membaca forum diskusi
-- video tutorial Web Programming UNPAS
+* konsisten baca tutorial 2 jam/hari
+* membuat sample project disertai dokumentasinya
+* membaca forum diskusi
+* video tutorial Web Programming UNPAS
+* video turorial sekolahcoding.com
