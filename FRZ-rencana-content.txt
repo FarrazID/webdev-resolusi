@@ -1,0 +1,3 @@
+RENCANA KONTEN FRZ
+/Backend Dev with NodeJS
+/Frontend Dev with ReactJS
