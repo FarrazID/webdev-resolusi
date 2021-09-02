@@ -2,7 +2,7 @@ RENCANA KONTEN FRZ
 /Backend Dev with NodeJS
   * in depth with ES6
 /Frontend Dev with ReactJS
-  * use framework Vue
+  * use framework Angular
 /Fundamental Data Structures
 /PHP Framework
   * Laravel
