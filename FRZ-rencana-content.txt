@@ -1,6 +1,5 @@
 RENCANA KONTEN FRZ
 /Backend Dev with NodeJS
-  * using AdonisJS
   * in depth with ES6
 /Frontend Dev with ReactJS
   * use framework Vue
