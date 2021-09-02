@@ -3,4 +3,7 @@ RENCANA KONTEN FRZ
   * using AdonisJS
   * in depth with ES6
 /Frontend Dev with ReactJS
+  * use framework Vue
 /Fundamental Data Structures
+/PHP Framework
+  * Laravel
