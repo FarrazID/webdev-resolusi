@@ -1,6 +1,7 @@
 RENCANA KONTEN FRZ
 /Backend Dev with NodeJS
   * in depth with ES6
+  * in depth with Typescript
 /Frontend Dev with ReactJS
   * use framework Angular
 /Fundamental Data Structures
