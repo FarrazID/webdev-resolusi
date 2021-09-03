@@ -1,0 +1,5 @@
+Hallo pak Dhika, nama saya Sarmento dari bandung
+
+Resolusi saya:
+- membuat website menggunakan framework JS
+- saya ingin membuat aplikasi Rest API untuk OPC Data
